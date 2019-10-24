@@ -1,6 +1,17 @@
 
+#!cexversion
+3.0
 
+#!citelibrary
+name#AUTHOR_NAME
+urn#urn:cite2:cex:fufolio.2019a:texts
+license#CC Share Alike.  For details, see more info.
 
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:fuTexts:GROUP.WORK.VERSION:#CITATION-SCHEME#NAME-OF-GROUP#TITLE-OF-WORK#INFO-ABOUT-VERSION##true#eng
+
+#!ctsdata
 urn:cts:fuTexts:asmith.tms.gerde:1.1.0.0#_Part I.--Of the Propriety of Action._
 urn:cts:fuTexts:asmith.tms.gerde:i.1.1.0#SEC. I.--OF THE SENSE OF PROPRIETY.
 urn:cts:fuTexts:asmith.tms.gerde:i.i.1.1#CHAP. I.--_Of Sympathy._
