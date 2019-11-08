@@ -4,7 +4,7 @@
 :load utilities.sc
 
 
-val lib: CiteLibrary = loadLibrary("text/arist_politics.cex")
+val lib: CiteLibrary = loadLibrary("text/tms-final.cex")
 
 val tr: TextRepository = lib.textRepository.get
 
